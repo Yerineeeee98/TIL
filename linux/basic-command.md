@@ -44,4 +44,4 @@ command [options] [arguments]
 ### cat (concatenate) 
 - 파일의 내용을 출력 
 
-### ctrl + l : 터미널 내용 지우기
+ ### ctrl + l : 터미널 내용 지우기

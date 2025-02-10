@@ -30,7 +30,7 @@
  ```
 
  ```javascript
- console.log("hello0")
+ console.log("hello")
  ```
 
  -백틱 뒤에 내가 사용하는 언어를 적으면 그 언어에 맞춰 색깔이 바뀜
@@ -65,3 +65,7 @@
 ### 7개는 모든 마크다운에서 적용 가능 / 사이트마다 기능이 다름 
 
 ### 링크 참고 : https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+-최초로 git 생성 (git init)
+- 추가 할 내용 (git add . )
