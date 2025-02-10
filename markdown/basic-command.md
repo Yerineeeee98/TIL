@@ -64,8 +64,9 @@
 
 ### 7개는 모든 마크다운에서 적용 가능 / 사이트마다 기능이 다름 
 
-### 링크 참고 : https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+### [출처] (https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 -최초로 git 생성 (git init)
 - 추가 할 내용 (git add . )
+- git commit -m "제목"
