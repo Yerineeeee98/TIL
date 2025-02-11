@@ -17,4 +17,6 @@
 ## 파일의 라이프 사이클
 ![lifecycle](../assets/lifecycle.png)
 - tracked (관리대상임) ,untracked(관리대상이 아님, 파일을 새로 만든 상태)
-   - tracked 파일: 
+   - tracked 파일: 이미 스냅샷에 포함돼 있던 파일이다. 
+        - Unmodified(수정하지 않음),  Modified(수정함), Staged(커밋으로 저장소에 기록할) 
+    - Untracked : 워킹 디렉토리에 있는 파일 중 스냅샷에도 Staging Area에도 포함되지 않은 파일이다.
