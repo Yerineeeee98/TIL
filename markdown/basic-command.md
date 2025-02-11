@@ -70,3 +70,4 @@
 -최초로 git 생성 (git init)
 - 추가 할 내용 (git add . )
 - git commit -m "제목"
+- git push origin master
